@@ -39,10 +39,10 @@ Technologies will be introduced when they are justified by project requirements.
 
 | Directory | Purpose |
 |---|---|
-| Docs/ | Architecture, API, database and technical documentation |
-| Learning/ | Learning notes and practical exercises |
-| Src/ | Application source code |
-| Tests/ | Automated tests |
+| Docs | Architecture, API, database and technical documentation |
+| Learning | Learning notes and practical exercises |
+| Src | Application source code |
+| Tests | Automated tests |
 
 ## Engineering Principles
 
@@ -60,4 +60,4 @@ Initial setup and learning phase.
 
 ## Disclaimer
 
-This is an independent educational and portfolio project. It uses synthetic data and independently developed code. It does not contain proprietary employer code, customer information or confidential business data.
+This is an independent educational and portfolio project. It uses synthetic data and independently developed code. It does not contain proprietary employer code, customer information, or confidential business data.
